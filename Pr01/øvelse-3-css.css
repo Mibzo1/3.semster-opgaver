@@ -1,0 +1,28 @@
+.div{
+    Display: flex;
+    Flex-direction: column;
+    Align-items: center;
+
+}
+
+.new{
+    font: arial;
+    color: rgb(245, 99, 0);
+    margin: 100px;
+}
+.mcPro{
+    font: arial;
+    font-size: large;
+    margin: 100px;
+}
+.super{
+    font: arial;
+    font-size: xx-large;
+}
+.from{
+    font: arial;
+}
+.btn{
+    color: royalblue;
+    padding: 25px 50px;
+}
